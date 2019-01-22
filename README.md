@@ -34,4 +34,5 @@ Eftirfarandi skrifta býr til index sem heitir `manntal`.
 Eins og er er bara til skrifta til að keyra inn manntalið 1703. Það er vegna þess að í því manntali eru tilgreindir hreppar sem hægt er að tengja við þá hreppa sem finnast í bæjarnafnaskrá Landsbókasafns.
 
 Til að keyra inn bæi:
+
 `node esImport1703.js --inputFile=data\manntal1703.json`
