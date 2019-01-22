@@ -1,0 +1,654 @@
+[
+  {
+    "municipality": "Dalahreppur",
+    "county": "Barðastrandarsýsla"
+  },
+  {
+    "municipality": "Hvammshreppur",
+    "county": "Eyjafjarðarsýsla"
+  },
+  {
+    "municipality": "Tálknafjarðarhreppur",
+    "county": "Barðastrandarsýsla"
+  },
+  {
+    "municipality": "Miklaholtshreppur",
+    "county": "Hnappadalssýsla"
+  },
+  {
+    "municipality": "Eyrarsveit",
+    "county": "Snæfellsnessýsla"
+  },
+  {
+    "municipality": "Álftaneshreppur",
+    "county": "Gullbringusýsla"
+  },
+  {
+    "municipality": "Ásshreppur",
+    "county": "Húnavatnssýsla"
+  },
+  {
+    "municipality": "Vestmannaeyjahreppur",
+    "county": "Vestmannaeyjar"
+  },
+  {
+    "municipality": "Skeiðahreppur",
+    "county": "Árnessýsla"
+  },
+  {
+    "municipality": "Fljótahreppur",
+    "county": "Skagafjarðarsýsla"
+  },
+  {
+    "municipality": "Leiðvallarhreppur",
+    "county": "Vestur-Skaftafellssýsla"
+  },
+  {
+    "municipality": "Biskupstungnahreppur",
+    "county": "Árnessýsla"
+  },
+  {
+    "municipality": "Vatnsleysustrandarhreppur",
+    "county": "Gullbringusýsla"
+  },
+  {
+    "municipality": "Vatnsneshreppur",
+    "county": "Húnavatnssýsla"
+  },
+  {
+    "municipality": "Skeggjastaðahreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Norðfjarðarhreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Trjekyllisvíkurhreppur",
+    "county": "Strandasýsla"
+  },
+  {
+    "municipality": "Svínadalshreppur",
+    "county": "Húnavatnssýsla"
+  },
+  {
+    "municipality": "Breiðdalshreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Eyjafjallasveit",
+    "county": "Rangárvallasýsla"
+  },
+  {
+    "municipality": "Grímsneshreppur",
+    "county": "Árnessýsla"
+  },
+  {
+    "municipality": "Torfustaðahreppur",
+    "county": "Húnavatnssýsla"
+  },
+  {
+    "municipality": "Selvogshreppur",
+    "county": "Árnessýsla"
+  },
+  {
+    "municipality": "Seltjarnarneshreppur",
+    "county": "Gullbringusýsla"
+  },
+  {
+    "municipality": "Sveinsstaðahreppur",
+    "county": "Húnavatnssýsla"
+  },
+  {
+    "municipality": "Saurbæjarhreppur",
+    "county": "Eyjafjarðarsýsla"
+  },
+  {
+    "municipality": "Dyrhólahreppur",
+    "county": "Vestur-Skaftafellssýsla"
+  },
+  {
+    "municipality": "Holtamannahreppur",
+    "county": "Rangárvallasýsla"
+  },
+  {
+    "municipality": "Neshreppur",
+    "county": "Snæfellsnessýsla"
+  },
+  {
+    "municipality": "Fáskrúðsfjarðarhreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Leirár- og Melahreppur",
+    "county": "Borgarfjarðarsýsla"
+  },
+  {
+    "municipality": "Hörðadalshreppur",
+    "county": "Dalasýsla"
+  },
+  {
+    "municipality": "Mýrahreppur",
+    "county": "Vestur-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Helgastaðahreppur",
+    "county": "Þingeyjarsýsla"
+  },
+  {
+    "municipality": "Vestur-Landeyjahreppur",
+    "county": "Rangárvallasýsla"
+  },
+  {
+    "municipality": "Barðastrandarhreppur",
+    "county": "Barðastrandarsýsla"
+  },
+  {
+    "municipality": "Skriðdalshreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Kjósarhreppur",
+    "county": "Kjósarsýsla"
+  },
+  {
+    "municipality": "Bólstaðarhlíðarhreppur",
+    "county": "Húnavatnssýsla"
+  },
+  {
+    "municipality": "Langadalsströnd",
+    "county": "Norður-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Hrafnagilshreppur",
+    "county": "Eyjafjarðarsýsla"
+  },
+  {
+    "municipality": "Rangárvallahreppur",
+    "county": "Rangárvallasýsla"
+  },
+  {
+    "municipality": "Breiðuvíkurhreppur",
+    "county": "Snæfellsnessýsla"
+  },
+  {
+    "municipality": "Súðavíkurhreppur",
+    "county": "Norður-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Lón Nes og Mýrar",
+    "county": "Austur-Skaftafellssýsla"
+  },
+  {
+    "municipality": "Hofshreppur",
+    "county": "Austur-Skaftafellssýsla"
+  },
+  {
+    "municipality": "Kjalarneshreppur",
+    "county": "Kjósarsýsla"
+  },
+  {
+    "municipality": "Mosvallahreppur",
+    "county": "Vestur-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Fljótsdalshreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Þingeyrarhreppur",
+    "county": "Vestur-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Bæjarhreppur",
+    "county": "Árnessýsla"
+  },
+  {
+    "municipality": "Stokkseyrarhreppur",
+    "county": "Árnessýsla"
+  },
+  {
+    "municipality": "Syðri Reykjadalshreppur",
+    "county": "Borgarfjarðarsýsla"
+  },
+  {
+    "municipality": "Kleifahreppur",
+    "county": "Vestur-Skaftafellssýsla"
+  },
+  {
+    "municipality": "Skútustaðahreppur",
+    "county": "Þingeyjarsýsla"
+  },
+  {
+    "municipality": "Hvammssveit",
+    "county": "Dalasýsla"
+  },
+  {
+    "municipality": "Lýtingsstaðahreppur",
+    "county": "Skagafjarðarsýsla"
+  },
+  {
+    "municipality": "Villingaholtshreppur",
+    "county": "Árnessýsla"
+  },
+  {
+    "municipality": "Borgarhreppur",
+    "county": "Mýrasýsla"
+  },
+  {
+    "municipality": "Vopnafjarðarhreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Laxárdalshreppur",
+    "county": "Dalasýsla"
+  },
+  {
+    "municipality": "Rauðasandshreppur",
+    "county": "Barðastrandarsýsla"
+  },
+  {
+    "municipality": "Vallnahreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Hólshreppur",
+    "county": "Vestur-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Grunnavíkursveit",
+    "county": "Norður-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Gnúpverjahreppur",
+    "county": "Árnessýsla"
+  },
+  {
+    "municipality": "Súgandafjarðarhreppur",
+    "county": "Vestur-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Álftaneshreppur",
+    "county": "Mýrasýsla"
+  },
+  {
+    "municipality": "Miðdalahreppur",
+    "county": "Dalasýsla"
+  },
+  {
+    "municipality": "Höfðastrandarhreppur",
+    "county": "Skagafjarðarsýsla"
+  },
+  {
+    "municipality": "Auðkúluhreppur",
+    "county": "Vestur-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Grýtubakkahreppur",
+    "county": "Þingeyjarsýsla"
+  },
+  {
+    "municipality": "Þingvallahreppur",
+    "county": "Árnessýsla"
+  },
+  {
+    "municipality": "Skriðuhreppur",
+    "county": "Eyjafjarðarsýsla"
+  },
+  {
+    "municipality": "Gufudalshreppur",
+    "county": "Barðastrandarsýsla"
+  },
+  {
+    "municipality": "Aungulsstaðahreppur",
+    "county": "Eyjafjarðarsýsla"
+  },
+  {
+    "municipality": "Flateyjarhreppur",
+    "county": "Barðastrandarsýsla"
+  },
+  {
+    "municipality": "Svalbarðshreppur",
+    "county": "Þingeyjarsýsla"
+  },
+  {
+    "municipality": "Fljótshlíðarhreppur",
+    "county": "Rangárvallasýsla"
+  },
+  {
+    "municipality": "Engihlíðarhreppur",
+    "county": "Húnavatnssýsla"
+  },
+  {
+    "municipality": "Tungu- og Fellnahreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Reykhólahreppur",
+    "county": "Barðastrandarsýsla"
+  },
+  {
+    "municipality": "Ólafsfjarðarhreppur",
+    "county": "Eyjafjarðarsýsla"
+  },
+  {
+    "municipality": "Helgafellssveit",
+    "county": "Snæfellsnessýsla"
+  },
+  {
+    "municipality": "Borgarfjarðarhreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Kolbeinsstaðahreppur",
+    "county": "Hnappadalssýsla"
+  },
+  {
+    "municipality": "Skarðstrandarhreppur",
+    "county": "Dalasýsla"
+  },
+  {
+    "municipality": "Bitruhreppur",
+    "county": "Strandasýsla"
+  },
+  {
+    "municipality": "Norðurárdalshreppur",
+    "county": "Mýrasýsla"
+  },
+  {
+    "municipality": "Andakílshreppur",
+    "county": "Borgarfjarðarsýsla"
+  },
+  {
+    "municipality": "Skutulsfjarðarhreppur",
+    "county": "Vestur-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Ögursveit",
+    "county": "Norður-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Blönduhlíðarhreppur",
+    "county": "Skagafjarðarsýsla"
+  },
+  {
+    "municipality": "Þverárhreppur",
+    "county": "Húnavatnssýsla"
+  },
+  {
+    "municipality": "Þorkelshólshreppur",
+    "county": "Húnavatnssýsla"
+  },
+  {
+    "municipality": "Svarfaðardalshreppur",
+    "county": "Eyjafjarðarsýsla"
+  },
+  {
+    "municipality": "Austur-Landeyjahreppur",
+    "county": "Rangárvallasýsla"
+  },
+  {
+    "municipality": "Aðalvíkurhreppur",
+    "county": "Norður-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Skefilsstaðahreppur",
+    "county": "Skagafjarðarsýsla"
+  },
+  {
+    "municipality": "Seiluhreppur",
+    "county": "Skagafjarðarsýsla"
+  },
+  {
+    "municipality": "Hvítársíðuhreppur",
+    "county": "Mýrasýsla"
+  },
+  {
+    "municipality": "Húsavíkurhreppur",
+    "county": "Þingeyjarsýsla"
+  },
+  {
+    "municipality": "Hrútafjarðarhreppur",
+    "county": "Strandasýsla"
+  },
+  {
+    "municipality": "Ölfushreppur",
+    "county": "Árnessýsla"
+  },
+  {
+    "municipality": "Reyðarfjarðarhreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Skilmannahreppur",
+    "county": "Borgarfjarðarsýsla"
+  },
+  {
+    "municipality": "Skógarstrandarhreppur",
+    "county": "Snæfellsnessýsla"
+  },
+  {
+    "municipality": "Reykholtsdalshreppur",
+    "county": "Borgarfjarðarsýsla"
+  },
+  {
+    "municipality": "Stafholtstungnahreppur",
+    "county": "Mýrasýsla"
+  },
+  {
+    "municipality": "Borgarhafnarhreppur",
+    "county": "Austur-Skaftafellssýsla"
+  },
+  {
+    "municipality": "Ljósavatnshreppur",
+    "county": "Þingeyjarsýsla"
+  },
+  {
+    "municipality": "Álftafjarðarhreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Skálmarnesmúlahreppur",
+    "county": "Barðastrandarsýsla"
+  },
+  {
+    "municipality": "Hálshreppur",
+    "county": "Þingeyjarsýsla"
+  },
+  {
+    "municipality": "Akraneshreppur",
+    "county": "Borgarfjarðarsýsla"
+  },
+  {
+    "municipality": "Torfalækjarhreppur",
+    "county": "Húnavatnssýsla"
+  },
+  {
+    "municipality": "Suðurfjarðahreppur",
+    "county": "Barðastrandarsýsla"
+  },
+  {
+    "municipality": "Landmannahreppur",
+    "county": "Rangárvallasýsla"
+  },
+  {
+    "municipality": "Staðarsveit",
+    "county": "Snæfellsnessýsla"
+  },
+  {
+    "municipality": "Hvolhreppur",
+    "county": "Rangárvallasýsla"
+  },
+  {
+    "municipality": "Hraungerðishreppur",
+    "county": "Árnessýsla"
+  },
+  {
+    "municipality": "Keldunesshreppur",
+    "county": "Þingeyjarsýsla"
+  },
+  {
+    "municipality": "Snæfjallaströnd",
+    "county": "Norður-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Skorradalshreppur",
+    "county": "Borgarfjarðarsýsla"
+  },
+  {
+    "municipality": "Svalbarðsstrandarhreppur",
+    "county": "Þingeyjarsýsla"
+  },
+  {
+    "municipality": "Mosfellshreppur",
+    "county": "Kjósarsýsla"
+  },
+  {
+    "municipality": "Hafnahreppur",
+    "county": "Gullbringusýsla"
+  },
+  {
+    "municipality": "Hrunamannahreppur",
+    "county": "Árnessýsla"
+  },
+  {
+    "municipality": "Haukadalshreppur",
+    "county": "Dalasýsla"
+  },
+  {
+    "municipality": "Glæsibæjarhreppur",
+    "county": "Eyjafjarðarsýsla"
+  },
+  {
+    "municipality": "Ásasveit",
+    "county": "Borgarfjarðarsýsla"
+  },
+  {
+    "municipality": "Hraunhreppur",
+    "county": "Mýrasýsla"
+  },
+  {
+    "municipality": "Þverárhlíðarhreppur",
+    "county": "Mýrasýsla"
+  },
+  {
+    "municipality": "Sauðaneshreppur",
+    "county": "Þingeyjarsýsla"
+  },
+  {
+    "municipality": "Rosmhvalaneshreppur",
+    "county": "Gullbringusýsla"
+  },
+  {
+    "municipality": "Grindavíkurhreppur",
+    "county": "Gullbringusýsla"
+  },
+  {
+    "municipality": "Presthólahreppur",
+    "county": "Þingeyjarsýsla"
+  },
+  {
+    "municipality": "Staðarhreppur",
+    "county": "Strandasýsla"
+  },
+  {
+    "municipality": "Sauðárhreppur",
+    "county": "Skagafjarðarsýsla"
+  },
+  {
+    "municipality": "Vindhælishreppur",
+    "county": "Húnavatnssýsla"
+  },
+  {
+    "municipality": "Strandarhreppur",
+    "county": "Borgarfjarðarsýsla"
+  },
+  {
+    "municipality": "Grímsey",
+    "county": "Eyjafjarðarsýsla"
+  },
+  {
+    "municipality": "Reynistaðarhreppur",
+    "county": "Skagafjarðarsýsla"
+  },
+  {
+    "municipality": "Viðvíkurhreppur",
+    "county": "Skagafjarðarsýsla"
+  },
+  {
+    "municipality": "Saurbæjarsveit",
+    "county": "Dalasýsla"
+  },
+  {
+    "municipality": "Hólahreppur",
+    "county": "Skagafjarðarsýsla"
+  },
+  {
+    "municipality": "Staðarhreppur",
+    "county": "Húnavatnssýsla"
+  },
+  {
+    "municipality": "Sléttuhlíðarhreppur",
+    "county": "Skagafjarðarsýsla"
+  },
+  {
+    "municipality": "Jökuldalshreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Skinnastaðahreppur",
+    "county": "Þingeyjarsýsla"
+  },
+  {
+    "municipality": "Berunesshreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Fellsstrandarhreppur",
+    "county": "Dalasýsla"
+  },
+  {
+    "municipality": "Kaldaðarneshreppur",
+    "county": "Strandasýsla"
+  },
+  {
+    "municipality": "Sandvíkurhreppur",
+    "county": "Árnessýsla"
+  },
+  {
+    "municipality": "Tröllatunguhreppur",
+    "county": "Strandasýsla"
+  },
+  {
+    "municipality": "Siglunesshreppur",
+    "county": "Eyjafjarðarsýsla"
+  },
+  {
+    "municipality": "Vatnsfjarðarsveit",
+    "county": "Norður-Ísafjarðarsýsla"
+  },
+  {
+    "municipality": "Eyjarhreppur",
+    "county": "Hnappadalssýsla"
+  },
+  {
+    "municipality": "Rípurhreppur",
+    "county": "Skagafjarðarsýsla"
+  },
+  {
+    "municipality": "Geiradalshreppur",
+    "county": "Barðastrandarsýsla"
+  },
+  {
+    "municipality": "Seyðisfjarðarhreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Mjóafjarðarhreppur",
+    "county": "Múlasýsla"
+  },
+  {
+    "municipality": "Loðmundarfjarðarhreppur",
+    "county": "Múlasýsla"
+  }
+]

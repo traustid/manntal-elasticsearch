@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+data/*
+places-not-found.csv
+placesNotFound.txt
