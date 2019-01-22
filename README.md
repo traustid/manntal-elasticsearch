@@ -23,6 +23,8 @@ Til að sækja manntalið 1816:
 
 Næst þarf að setja upp index í Elasticsearch. Index hegðar sér svipað og tafla í hefðbundnum gagnagrunnnum á borð við MySQL.
 
+Eftirfarandi skrifta býr til index sem heitir `manntal`.
+
 `node createIndex.js`
 
 ## Hnitsetning á bæjum og innkeyrsla gagna
