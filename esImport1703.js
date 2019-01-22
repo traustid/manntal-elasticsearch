@@ -3,6 +3,14 @@ var _ = require('underscore');
 var elasticsearch = require('elasticsearch');
 var Levenshtein = require('levenshtein');
 
+var argv = require('minimist')(process.argv.slice(2));
+
+if (process.argv.length < 3) {
+	console.log('node esImport1703 --inputFile');
+
+	return;
+}
+
 var notFoundLogFile = 'places-not-found.csv';
 
 var municipalities = [
@@ -1009,7 +1017,7 @@ var municipalities = [
 
 //fs.unlink(notFoundLogFile);
 
-var places = JSON.parse(fs.readFileSync('data/places.json'));
+var places = JSON.parse(fs.readFileSync('places.json'));
 
 var getModernMunicipality = function(historicMunicipality, historicCounty) {
 	var foundMunicipality = _.find(municipalities, function(municipality) {
@@ -1048,7 +1056,7 @@ var findPlace = function(name, municipality, county) {
 //console.log(findPlace('Fífustaðir', 'Dalahreppur', 'Barðastrandarsýsla'));
 
 console.log('Opna skrá');
-fs.readFile('data/manntal1703.json', function(err, data) {
+fs.readFile(argv.inputFile, function(err, data) {
 	console.log('Skrá í json');
 
 	var manntal1703 = JSON.parse(data);
