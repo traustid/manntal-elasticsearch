@@ -1,6 +1,8 @@
 # Yfirlestur manntalsgagna í Elasticsearch
 
-Þessi gagnahirsla inniheldur skriftu til að keyra gögn úr manntölum yfir í Elasticsearch. Skrifturnar sækja gögnin og finna hnit fyrir bæi í manntalinu 1703 ásamt því að keyra þau inn. Hér er miðað við útgáfu 6.5.4. Til að keyra skrifturnar þarf Node.js að vera uppsett. Þessar skriftur nota bæjarskrá frá Landsbókasafni Íslands.
+Þessi gagnahirsla inniheldur skriftu til að keyra gögn úr manntölum yfir í Elasticsearch. Skrifturnar sækja gögnin og finna hnit fyrir bæi í manntalinu 1703 ásamt því að keyra þau inn. Hér er miðað við Elasticsearch 6.5.4.
+
+Til að keyra skrifturnar þarf Node.js að vera uppsett ásamt Elasticsearch. Þessar skriftur nota bæjarskrá frá Landsbókasafni Íslands. Greiningarkerfið Kibana er notað til að birta tölfræði upp úr gögnunum og koma upplýsingar um það síðar.
 
 ## Undirbúningur
 
