@@ -1,6 +1,6 @@
-# Yfirlestur manntala í Elasticsearch
+# Yfirlestur manntalsgagna í Elasticsearch
 
-Þessi gagnahirsla inniheldur skriftu til að keyra gögn úr manntölum yfir í Elasticsearch. Hér er miðað við útgáfu 6.5.4. Til að keyra skrifturnar þarf Node.js að vera uppsett.
+Þessi gagnahirsla inniheldur skriftu til að keyra gögn úr manntölum yfir í Elasticsearch. Skrifturnar sækja gögnin og finna hnit fyrir bæi í manntalinu 1703 ásamt því að keyra þau inn. Hér er miðað við útgáfu 6.5.4. Til að keyra skrifturnar þarf Node.js að vera uppsett. Þessar skriftur nota bæjarskrá frá Landsbókasafni Íslands.
 
 ## Undirbúningur
 
@@ -18,3 +18,16 @@ Skriftan `fetchManntal.js` sækir manntöl úr API frá Þjóðskjalasafni og vi
 Til að sækja manntalið 1816:
 
 `node fetchManntal.js --manntal=1816 --outputFile=data\manntal1816.json`
+
+## Setja upp index
+
+Næst þarf að setja upp index í Elasticsearch. Index hegðar sér svipað og tafla í hefðbundnum gagnagrunnnum á borð við MySQL.
+
+`node createIndex.js`
+
+## Hnitsetning á bæjum og innkeyrsla gagna
+
+Eins og er er bara til skrifta til að keyra inn manntalið 1703. Það er vegna þess að í því manntali eru tilgreindir hreppar sem hægt er að tengja við þá hreppa sem finnast í bæjarnafnaskrá Landsbókasafns.
+
+Til að keyra inn bæi:
+`node esImport1703.js --inputFile=data\manntal1703.json`
