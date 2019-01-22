@@ -6,7 +6,7 @@ Til að keyra skrifturnar þarf Node.js að vera uppsett ásamt Elasticsearch. �
 
 ## Undirbúningur
 
-Fyrst þarf að sækja gagnahirsluna og setja upp nauðsynlega Node.js pakkka:
+Fyrst þarf að sækja gagnahirsluna og setja upp nauðsynlega Node.js pakka:
 ```
 git clone https://github.com/traustid/manntal-elasticsearch.git
 cd manntal-elasticsearch
