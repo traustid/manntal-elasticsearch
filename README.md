@@ -36,3 +36,11 @@ Eins og er er bara til skrifta til að keyra inn manntalið 1703. Það er vegna
 Til að keyra inn bæi:
 
 `node esImport1703.js --inputFile=data/manntal1703.json`
+
+## Uppsetning  Kibana
+
+Kibana keyrir á porti 5601. Þegar það hefur verið sett upp er farið inn á vefslóðina http://localhost:5601
+
+Í þessari gagnahirslu er skrá sem heitir `kibana-objects.json`. Hún geymir stillingar fyrir myndbirtingu gagnanna. Til að hlaða þeirri skrá inn í Kibana er farið í Management og Saved objects. Þar er smellt á Import tengil við hliðina  Saved Objects fyrirsögninni og skráin valin. Loks er smellt á Import takkann neðst á síðunni.
+
+Þegar þessu er lokið er hægt að fara í Dashboard hluta Kibana og sjá yfirlit yfir gögnin.
