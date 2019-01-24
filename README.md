@@ -17,9 +17,9 @@ npm install
 
 Skriftan `fetchManntal.js` sækir manntöl úr API frá Þjóðskjalasafni og vistar heildargagnansafnið í eina JSON skrá.
 
-Til að sækja manntalið 1816:
+Til að sækja manntalið 1703 (sem notað er í þessum dæmum):
 
-`node fetchManntal.js --manntal=1816 --outputFile=data\manntal1816.json`
+`node fetchManntal.js --manntal=1703 --outputFile=data/manntal1703.json`
 
 ## Setja upp index
 
@@ -35,4 +35,4 @@ Eins og er er bara til skrifta til að keyra inn manntalið 1703. Það er vegna
 
 Til að keyra inn bæi:
 
-`node esImport1703.js --inputFile=data\manntal1703.json`
+`node esImport1703.js --inputFile=data/manntal1703.json`
