@@ -17,9 +17,9 @@ npm install
 
 Skriftan `fetchManntal.js` sækir manntöl úr API frá Þjóðskjalasafni og vistar heildargagnansafnið í eina JSON skrá.
 
-Til að sækja manntalið 1816:
+Til að sækja manntalið 1703 (sem notað er í þessum dæmum):
 
-`node fetchManntal.js --manntal=1816 --outputFile=data\manntal1816.json`
+`node fetchManntal.js --manntal=1703 --outputFile=data/manntal1703.json`
 
 ## Setja upp index
 
@@ -35,4 +35,12 @@ Eins og er er bara til skrifta til að keyra inn manntalið 1703. Það er vegna
 
 Til að keyra inn bæi:
 
-`node esImport1703.js --inputFile=data\manntal1703.json`
+`node esImport1703.js --inputFile=data/manntal1703.json`
+
+## Uppsetning  Kibana
+
+Kibana keyrir á porti 5601. Þegar það hefur verið sett upp er farið inn á vefslóðina http://localhost:5601
+
+Í þessari gagnahirslu er skrá sem heitir `kibana-objects.json`. Hún geymir stillingar fyrir myndbirtingu gagnanna. Til að hlaða þeirri skrá inn í Kibana er farið í Management og Saved objects. Þar er smellt á Import tengil við hliðina  Saved Objects fyrirsögninni og skráin valin. Loks er smellt á Import takkann neðst á síðunni.
+
+Þegar þessu er lokið er hægt að fara í Dashboard hluta Kibana og sjá yfirlit yfir gögnin.
