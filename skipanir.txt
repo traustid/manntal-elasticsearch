@@ -1,0 +1,3 @@
+node lbsXmlToJson.js --inputFile=data\places.xml --placesOutputFile=data\placeDb.json --regionsOutputFile=data\regionsDb.json
+
+node addManntalToPlacesDb --manntalFile=data\manntal1703.json --placesDbFile=data\placeDb.json --regionsDbFile=data\regionsDb.json --notFoundReport=data\manntal1703-notfound.json
