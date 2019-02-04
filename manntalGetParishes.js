@@ -4,7 +4,7 @@ var _ = require('underscore');
 const argv = require('minimist')(process.argv.slice(2));
 
 if (process.argv.length < 3) {
-	console.log('node manntalAnalyseParishes --manntalFile --outputFile');
+	console.log('node manntalAnalyseParishes --manntalFile --outputFile --sysla=[sýslunafn, takmarka við ákveðna sýslu');
 
 	return;
 }
@@ -16,14 +16,19 @@ fs.readFile(argv.manntalFile, function(err, data) {
 	};
 
 	_.each(manntal, function(item) {
-		if (!parish[item.SysluNafn]) {
-			parish[item.SysluNafn] = [];
+		if (argv.sysla && argv.sysla != item.SysluNafn) {
+			return;
 		}
+		else {
+			if (!parish[item.SysluNafn]) {
+				parish[item.SysluNafn] = [];
+			}
 
-		if (!_.find(parish[item.SysluNafn], function(parish) {
-			return parish == item.SoknarNafn;
-		})) {
-			parish[item.SysluNafn].push(item.SoknarNafn);
+			if (!_.find(parish[item.SysluNafn], function(parish) {
+				return parish == item.SoknarNafn;
+			})) {
+				parish[item.SysluNafn].push(item.SoknarNafn);
+			}
 		}
 	});
 
