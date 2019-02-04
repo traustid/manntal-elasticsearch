@@ -63,3 +63,5 @@ typings/
 data/*
 places-not-found.csv
 placesNotFound.txt
+
+nohup.out

@@ -6,7 +6,7 @@ const Levenshtein = require('levenshtein');
 const argv = require('minimist')(process.argv.slice(2));
 
 if (process.argv.length < 3) {
-	console.log('node addManntalToPlacesDb --manntalFile --placesDbFile --datasetName --regionsDbFile --notFoundReport');
+	console.log('node addManntalToPlacesDb --manntalFile --placesDbFile --datasetName --regionsDbFile --notFoundReport --sysla=[takmarka gagnamengi við ákveðna sýslu]');
 
 	return;
 }
@@ -14,6 +14,26 @@ if (process.argv.length < 3) {
 let datasetName = argv.datasetName;
 
 let municipalities = {
+	manntal1816: [
+		{
+			municipality: 'Árnessókn',
+			county: 'Strandasýsla',
+			modernName: ['Árneshreppur'],
+			modernCounty: 'Strandasýsla'
+		},
+		{
+			municipality: 'Tröllat.\Fells',
+			county: 'Strandasýsla',
+			modernName: ['Kirkjubólshreppur', 'Fellshreppur'],
+			modernCounty: 'Strandasýsla'
+		},
+		{
+			municipality: 'Prestb.\Óspaks.',
+			county: 'Strandasýsla',
+			modernName: ['Bæjarhreppur', 'Óspakseyrarhreppur'],
+			modernCounty: 'Strandasýsla'
+		}
+	],
 	manntal1703: [
 		{
 			municipality: 'Dalahreppur',
@@ -132,7 +152,7 @@ let municipalities = {
 		{
 			municipality: 'Eyjafjallasveit',
 			county: 'Rangárvallasýsla',
-			modernNames: [
+			modernName: [
 				'Austur-Eyjafjallahreppur', 'Vestur-Eyjafallahreppur'
 			],
 			modernCounty: 'Rangárvallasýsla'
@@ -146,7 +166,7 @@ let municipalities = {
 		{
 			municipality: 'Torfustaðahreppur',
 			county: 'Húnavatnssýsla',
-			modernNames: [
+			modernName: [
 				'Fremri-Torfastaðahreppur', 'Ytri-Torfustaðahreppur'
 			],
 			modernCounty: 'Vestur-Húnavatnssýsla'
@@ -192,7 +212,7 @@ let municipalities = {
 		{
 			municipality: 'Neshreppur',
 			county: 'Snæfellsnessýsla',
-			modernNames: [
+			modernName: [
 				'Neshreppur', 'Fróðárhreppur', 
 			],
 			modernCounty: 'Snæfellsnessýsla'
@@ -224,7 +244,7 @@ let municipalities = {
 		{
 			municipality: 'Helgastaðahreppur',
 			county: 'Þingeyjarsýsla',
-			modernNames: [
+			modernName: [
 				'Aðaldælahreppur', 'Reykdælahreppur'],
 			modernCounty: 'Suður-Þingeyjarsýsla'
 		},
@@ -291,7 +311,7 @@ let municipalities = {
 		{
 			municipality: 'Lón Nes og Mýrar',
 			county: 'Austur-Skaftafellssýsla',
-			modernNames: [
+			modernName: [
 				'Bæjarhreppur', 'Nesjahreppur', 'Mýrahreppur'
 			],
 			modernCounty: 'Austur-Skaftafellssýsla'
@@ -347,7 +367,7 @@ let municipalities = {
 		{
 			municipality: 'Kleifahreppur',
 			county: 'Vestur-Skaftafellssýsla',
-			modernNames: [
+			modernName: [
 				'Kirkjubæjarhreppur', 'Hörglandshreppur'
 			],
 			modernCounty: 'Vestur-Skaftafellssýsla'
@@ -637,7 +657,7 @@ let municipalities = {
 		{
 			municipality: 'Húsavíkurhreppur',
 			county: 'Þingeyjarsýsla',
-			modernNames: [
+			modernName: [
 				'Húsavík', 'Tjörneshreppur'
 			],
 			modernCounty: 'Suður-Þingeyjarsýsla'
@@ -717,7 +737,7 @@ let municipalities = {
 		{
 			municipality: 'Akraneshreppur',
 			county: 'Borgarfjarðarsýsla',
-			modernNames: [
+			modernName: [
 				'Innri-Akraneshreppur', 'Akranes'
 			],
 			modernCounty: 'Borgarfjarðarsýsla'
@@ -839,7 +859,7 @@ let municipalities = {
 		{
 			municipality: 'Rosmhvalaneshreppur',
 			county: 'Gullbringusýsla',
-			modernNames: [
+			modernName: [
 				'Vatnsleysustrandarhreppur', 'Gerðahreppur'
 			],
 			modernCounty: 'Gullbringusýsla'
@@ -931,7 +951,7 @@ let municipalities = {
 		{
 			municipality: 'Skinnastaðahreppur',
 			county: 'Þingeyjarsýsla',
-			modernNames: [
+			modernName: [
 				'Fjallahreppur', 'Öxarfjarðarhreppur'
 			],
 			modernCounty: 'Norður-Þingeyjarsýsla'
@@ -1050,6 +1070,12 @@ let manntalFileContent = fs.readFileSync(argv.manntalFile, {
 });
 let manntal = JSON.parse(manntalFileContent);
 
+if (argv.sysla) {
+	manntal = _.filter(manntal, function(item) {
+		return item.SysluNafn == argv.sysla;
+	});
+}
+
 let counter = 1;
 
 manntal.forEach(function(item) {
@@ -1063,6 +1089,8 @@ manntal.forEach(function(item) {
 		return _.find(place.names, function(name) {
 			// Finnum hrepp í staðarskrá sem samsvarar hreppi 1703
 			let modernMunicipality = getModernMunicipality(item.SoknarNafn, item.SysluNafn);
+
+			modernMunicipality.modernName = typeof modernMunicipality.modernName == 'string' ? [modernMunicipality.modernName] : modernMunicipality.modernName;
 
 			// Finnum hreppinn í staðarskrá til að nota síðar til að leita eftir
 			let dbMunicipality = _.find(place.region, function(region) {
@@ -1092,8 +1120,19 @@ manntal.forEach(function(item) {
 			let nameLevenshtein = new Levenshtein(item.baernafn, name.name);
 
 			if (dbMunicipalityName) {
-				let municipalityLevenshtein = new Levenshtein(item.SoknarNafn, dbMunicipalityName);
-				return nameLevenshtein.distance < 2 && municipalityLevenshtein.distance < 2;
+				/*
+				console.log(modernMunicipality);
+				console.log('dbMunicipalityName: '+dbMunicipalityName);
+				console.log('dbCountyName: '+dbCountyName);
+				console.log(place);
+				console.log('------');
+				*/
+//				let municipalityLevenshtein = new Levenshtein(item.SoknarNafn, dbMunicipalityName);
+
+//				return nameLevenshtein.distance < 2 && municipalityLevenshtein.distance < 2;
+				return nameLevenshtein.distance < 2 && 
+					modernMunicipality.modernCounty == dbCountyName &&
+					modernMunicipality.modernName.indexOf(dbMunicipalityName) > -1;
 			}
 			else {
 				return false;
@@ -1106,6 +1145,8 @@ manntal.forEach(function(item) {
 		console.log('Leitaði að: '+item.baernafn);
 		console.log(item.SoknarNafn);
 		console.log(item.SysluNafn);
+		console.log('Fann:');
+		console.log(JSON.stringify(possibleMaches, null, 2));
 /*
 		console.log(JSON.stringify(possibleMaches.map(function(match) {
 			return match.name;
@@ -1175,6 +1216,8 @@ manntal.forEach(function(item) {
 		console.log('-----------------');
 		console.log('Fannst ekki:');
 		console.log(item.baernafn);
+		console.log(item.SoknarNafn);
+		console.log(item.SysluNafn);
 	}
 
 	counter++;

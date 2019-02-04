@@ -1,3 +1,7 @@
-node lbsXmlToJson.js --inputFile=data\places.xml --placesOutputFile=data\placeDb.json --regionsOutputFile=data\regionsDb.json
+node lbsXmlToJson.js --inputFile=sourceData/places.xml --placesOutputFile=data/placeDb.json --regionsOutputFile=data/regionsDb.json
 
-node addManntalToPlacesDb --manntalFile=data\manntal1703.json --placesDbFile=data\placeDb.json --regionsDbFile=data\regionsDb.json --notFoundReport=data\manntal1703-notfound.json --datasetName=manntal1703
+node addManntalToPlacesDb --manntalFile=data/manntal1703.json --placesDbFile=data/placeDb.json --regionsDbFile=data/regionsDb.json --notFoundReport=data/manntal1703-notfound.json --datasetName=manntal1703
+
+
+-- Prufa með manntal 1816
+node addManntalToPlacesDb --manntalFile=data/manntal1816.json --placesDbFile=data/placeDb.json --regionsDbFile=data/regionsDb.json --notFoundReport=data/manntal1816-notfound.json --datasetName=manntal1816 --sysla=Strandasýsla
