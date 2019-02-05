@@ -6,7 +6,7 @@ const Levenshtein = require('levenshtein');
 const argv = require('minimist')(process.argv.slice(2));
 
 if (process.argv.length < 3) {
-	console.log('node addManntalToPlacesDb --manntalFile --placesDbFile --datasetName --regionsDbFile --notFoundReport --sysla=[takmarka gagnamengi við ákveðna sýslu]');
+	console.log('node addManntalToPlacesDb --manntalFile --placesDbFile --datasetName --year --regionsDbFile --notFoundReport --sysla=[takmarka gagnamengi við ákveðna sýslu]');
 
 	return;
 }
@@ -22,15 +22,59 @@ let municipalities = {
 			modernCounty: 'Strandasýsla'
 		},
 		{
-			municipality: 'Tröllat.\Fells',
+			municipality: 'Tröllat.\\Fells',
 			county: 'Strandasýsla',
 			modernName: ['Kirkjubólshreppur', 'Fellshreppur'],
 			modernCounty: 'Strandasýsla'
 		},
 		{
-			municipality: 'Prestb.\Óspaks.',
+			municipality: 'Prestb.\\Óspaks.',
 			county: 'Strandasýsla',
 			modernName: ['Bæjarhreppur', 'Óspakseyrarhreppur'],
+			modernCounty: 'Strandasýsla'
+		}
+	],
+	manntal1835: [
+		{
+			municipality: 'Staðarsókn',
+			county: 'Strandasýsla',
+			modernName: [''],
+			modernCounty: 'Strandasýsla'
+		},
+		{
+			municipality: 'Árnessókn',
+			county: 'Strandasýsla',
+			modernName: ['Árneshreppur'],
+			modernCounty: 'Strandasýsla'
+		},
+		{
+			municipality: 'Kaldrananessókn',
+			county: 'Strandasýsla',
+			modernName: [''],
+			modernCounty: 'Strandasýsla'
+		},
+		{
+			municipality: 'Tröllatungusókn',
+			county: 'Strandasýsla',
+			modernName: ['Kirkjubólshreppur'],
+			modernCounty: 'Strandasýsla'
+		},
+		{
+			municipality: 'Fellssókn',
+			county: 'Strandasýsla',
+			modernName: ['Fellshreppur'],
+			modernCounty: 'Strandasýsla'
+		},
+		{
+			municipality: 'Óspakseyrarsókn',
+			county: 'Strandasýsla',
+			modernName: ['Óspakseyrarhreppur'],
+			modernCounty: 'Strandasýsla'
+		},
+		{
+			municipality: 'Prestbakkasókn',
+			county: 'Strandasýsla',
+			modernName: ['Bæjarhreppur'],
 			modernCounty: 'Strandasýsla'
 		}
 	],
@@ -1130,7 +1174,7 @@ manntal.forEach(function(item) {
 //				let municipalityLevenshtein = new Levenshtein(item.SoknarNafn, dbMunicipalityName);
 
 //				return nameLevenshtein.distance < 2 && municipalityLevenshtein.distance < 2;
-				return nameLevenshtein.distance < 2 && 
+				return nameLevenshtein.distance < 3 && 
 					modernMunicipality.modernCounty == dbCountyName &&
 					modernMunicipality.modernName.indexOf(dbMunicipalityName) > -1;
 			}
@@ -1157,8 +1201,8 @@ manntal.forEach(function(item) {
 			place.id.push({
 				id: item.Baer,
 				source: datasetName,
-				dateFrom: 1703,
-				dateTo: 1703,
+				dateFrom: argv.year,
+				dateTo: argv.year,
 				certainty: 5, // of 10
 				name: item.baernafn,
 				region: [
@@ -1188,16 +1232,16 @@ manntal.forEach(function(item) {
 				{
 					name: item.baernafn,
 					source: datasetName,
-					dateFrom: 1703,
-					dateTo: 1703
+					dateFrom: argv.year,
+					dateTo: argv.year
 				}
 			],
 			ids: [
 				{
 					id: item.Baer,
 					source: datasetName,
-					dateFrom: 1703,
-					dateTo: 1703,
+					dateFrom: argv.year,
+					dateTo: argv.year,
 					name: item.baernafn,
 					region: [
 						{
