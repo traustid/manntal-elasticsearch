@@ -1,3 +1,11 @@
+/*
+
+Þessi skrifta keyrir manntalið 1703 inn í Elasticsearch,
+athugið að fyrst þarf að keyra manntalCreateIndex.js til að búa til
+rétta möppun fyrir hnit sem finnats í gögnunum.
+
+*/
+
 var fs = require('fs');
 var _ = require('underscore');
 var elasticsearch = require('elasticsearch');
