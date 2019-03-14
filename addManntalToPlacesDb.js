@@ -1091,7 +1091,7 @@ const getModernMunicipality = function(historicMunicipality, historicCounty) {
 
 let notFound = [];
 
-// Hleð staðarskrá
+// Opna svæðaskrá
 let regionsDbContent = fs.readFileSync(argv.regionsDbFile, {
 	encoding: 'utf8'
 });
@@ -1102,7 +1102,7 @@ const getDbRegion = function(id, type) {
 	return _.findWhere(regionsDb, {id: id, type: type});
 }
 
-// Hleð svæðaskrá
+// Opna staðaskrá
 let placesDbContent = fs.readFileSync(argv.placesDbFile, {
 	encoding: 'utf8'
 });
