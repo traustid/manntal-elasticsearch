@@ -1,0 +1,3855 @@
+[
+  {
+    "regions": [
+      {
+        "id": "VesSka01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Akrahreppur",
+    "id": "Akrahr01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Borga01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Akranes",
+    "id": "Akrane01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Akureyri",
+    "id": "Akurey01",
+    "type": "city"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Akureyri",
+    "id": "Akurey02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Borga01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Andakílshreppur",
+    "id": "Andakí01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Arnarneshreppur",
+    "id": "Arnarn01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Austur-Barðastrandarsýsla",
+    "id": "AusBar01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Rangár01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Austur-Eyjafjallahreppur",
+    "id": "AusEyj01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Austur-Húnavatnssýsla",
+    "id": "AusHún01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Rangár01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Austur-Landeyjahreppur",
+    "id": "AusLan04",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Austur-Skaftafellssýsla",
+    "id": "AusSka02",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusSka02",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Auðkúluhreppur",
+    "id": "Auðkúl01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Aðaldælahreppur",
+    "id": "Aðaldæ01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesBar01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Barðarstrandarhreppur",
+    "id": "Barðar01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Beruneshreppur",
+    "id": "Berune01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Berufjarðar- og\r\n\t\t\t\t\t\t\t\tBerunessókn",
+    "id": "Berufjardarsokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Bessastaðahreppur",
+    "id": "Bessas01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesHún01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Biskupstungnahreppur",
+    "id": "Biskup01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Blönduós",
+    "id": "Blöndó01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÍsa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Bolungarvík",
+    "id": "Bolung01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Borgarfjarðarsýsla",
+    "id": "Borga01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Borgarnes",
+    "id": "Borgar01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Borgarhreppur",
+    "id": "Borgar02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Gullbr01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Borgarfjarðarhreppur",
+    "id": "Borgar03",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusSka02",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Borgarhafnarhreppur",
+    "id": "Borgar04",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Breiðdalshreppur",
+    "id": "Breiðd01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Snæfe02",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Breiðuvíkurhreppur",
+    "id": "Breiðu01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Brúarsókn",
+    "id": "Bruarsokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Bárðadælahreppur",
+    "id": "Bárðad01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Borga01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Bæjarhreppur",
+    "id": "Bæjarh01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesBar01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Bíldudalshreppur",
+    "id": "Bíldud01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Bólstaðarhreppur",
+    "id": "Bólsta01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Búlandshreppur",
+    "id": "Búland01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Dalas01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Búðardalur",
+    "id": "Búðard01",
+    "type": "village"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Búðahreppur",
+    "id": "Búðahr01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Dalasýsla",
+    "id": "Dalas01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Dalvík",
+    "id": "Dalvík01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Desjarmýrarsókn",
+    "id": "Desjarmyrarsokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Rangár01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Djúpárhreppur",
+    "id": "Djúpár01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Draflstaðasókn",
+    "id": "Draflstadasokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Gullbr01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Egilsstaðahreppur",
+    "id": "Egilss01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Einarsstaðasókn",
+    "id": "Einarsstadasokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Nessókn",
+    "id": "Nessokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Eiðahreppur",
+    "id": "Eiðahr01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Engihlíðarhreppur",
+    "id": "Engihl01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Eskifjörður",
+    "id": "Eskifj01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Eyjafjarðarsýsla",
+    "id": "Eyjafj02",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Hnappa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Eyjahreppur",
+    "id": "Eyjahr01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesHún01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Eyrabakkahreppur",
+    "id": "Eyraba01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Snæfe02",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Eyrarsveit",
+    "id": "Eyrars01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Snæfe02",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Fellahreppur",
+    "id": "Fellah01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Borga01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Fellshreppur",
+    "id": "Fellsh01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Dalas01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Fellstrandarhreppur",
+    "id": "Fellst01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Fjallahreppur",
+    "id": "Fjalla01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesÍsa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Flateyrarheppur",
+    "id": "Flatey01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Skagaf01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Fljótahreppur",
+    "id": "Fljóta01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Rangár01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Fljótshlíðarhreppur",
+    "id": "Fljóts01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Fljótsdalshreppur",
+    "id": "Fljóts02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Skagaf01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Fremri-Torfastaðahreppur",
+    "id": "FreTor01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Gullbr01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Fróðarhreppur",
+    "id": "Fróðar01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Fáskrúðsfjarðarhreppur",
+    "id": "Fáskrú01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Gullbr01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Garðabær",
+    "id": "Garðab01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Árnes01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Gaulverjabæjarheppur",
+    "id": "Gaulve01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Geithellnahreppur",
+    "id": "Geithe01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Gerðahreppur",
+    "id": "Gerðah01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Glæsibæjarhreppur",
+    "id": "Glæsib01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesHún01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Gnúpverjahreppur",
+    "id": "Gnúpve01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Árnes01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Grafningshreppur",
+    "id": "Grafni01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Grindavík",
+    "id": "Grinda01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Grímseyjarhreppur",
+    "id": "Grímse01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Gullbr01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Grímsneshreppur",
+    "id": "Grímsn01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Grýtubakkahreppur",
+    "id": "Grýtub01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Grýtubakkasókn",
+    "id": "Grytubakkasokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Þönglabakkasókn",
+    "id": "Thonglabakkasokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Gullbringusýsla",
+    "id": "Gullbr01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hafnahreppur",
+    "id": "Hafnah01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hallormsstaðasókn",
+    "id": "Hallormsstadasokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Skagaf01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Haukadalshreppur",
+    "id": "Haukad01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Helgafellssókn",
+    "id": "Helgafellssokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Helgastaðasókn",
+    "id": "Helgastadasokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Snæfe02",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Helgafellssveit",
+    "id": "Helgaf01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Laxárd01",
+        "type": "parish"
+      },
+      {
+        "id": "Dalas01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hjarðarholtssókn",
+    "id": "Hjardarholtssokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Snæfe02",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hjaltastaðahreppur",
+    "id": "Hjalta01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Snæfe02",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hlíðarhreppur",
+    "id": "Hlíðar01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hnappadalssýsla",
+    "id": "Hnappa01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÍsa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hnífsdalur",
+    "id": "Hnífsd01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hofteigssókn",
+    "id": "Hofteigssokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hofssókn",
+    "id": "Hofssokn02",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Háls- og Hofssókn",
+    "id": "Hofssokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusSka02",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hofshreppur",
+    "id": "Hofshr01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesSka01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hofsóshreppur",
+    "id": "Hofsós01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesSka01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Holtahreppur",
+    "id": "Holtah01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hrafnagilshreppur",
+    "id": "Hrafna01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Árnes01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hraungerðishreppur",
+    "id": "Hraung01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hraunhreppur",
+    "id": "Hraunh01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Árnes01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hrunamannahreppur",
+    "id": "Hrunam01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hríseyjarhreppur",
+    "id": "Hrísey01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hróarstunguhreppur",
+    "id": "Hróars01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Borga01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hvalfjarðarstrandarhreppur",
+    "id": "Hvalfj01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Dalas01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hvammshreppur",
+    "id": "Hvamms01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hvammstangahreppur",
+    "id": "Hvamms02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesHún01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hveragerði",
+    "id": "Hverag01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Saurbæ01",
+        "type": "parish"
+      },
+      {
+        "id": "Dalas01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hvolssókn",
+    "id": "Hvolssokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Rangár01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hvolhreppur",
+    "id": "Hvolhr01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hvítársíðuhreppur",
+    "id": "Hvítár01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Borga01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hálsahreppur",
+    "id": "Hálsah01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hálshreppur",
+    "id": "Hálshr01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Flateyjarsókn",
+    "id": "Flateyjarsokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Illugastaðasókn",
+    "id": "Illugastadasokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hálssókn",
+    "id": "Halssokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Skagaf01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hólahreppur",
+    "id": "Hólahr01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Skagaf01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hólmavíkurhreppur",
+    "id": "Hólmav01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Höfðasókn",
+    "id": "Hofdasokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Höfn í Hornarfirði",
+    "id": "HöfHor01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Höfðahreppur",
+    "id": "Höfðah01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Dalas01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hörglandshreppur",
+    "id": "Hörgla01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Skagaf01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hörðudalshreppur",
+    "id": "Hörðud01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Strand01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Hrófbergshreppur",
+    "id": "HróStr01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Húsavíkursókn",
+    "id": "Husavikursokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Húsavíkursókn",
+    "id": "Husavikursokn02",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Garðasókn",
+    "id": "Gardasokn02",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Snæfe02",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Húsavík",
+    "id": "Húsaví01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Borga01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Innri-Akraneshreppur",
+    "id": "InnAkr01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Snæfe02",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Jökuldalshreppur",
+    "id": "Jökuld01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Skagaf01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Kaldrananeshreppur",
+    "id": "Kaldra01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Kelduneshreppur",
+    "id": "Keldun01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Kirkjuhvammshreppur",
+    "id": "Kirkju01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Dalas01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Kirkjubæjarhreppur",
+    "id": "Kirkju02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Strand01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Kirkjubólshreppur",
+    "id": "Kirkju03",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Kjósar01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Kjalarneshreppur",
+    "id": "Kjalar01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Kjósarsýsla",
+    "id": "Kjósar01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Kjósar01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Kjósarhreppur",
+    "id": "Kjósar02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Klippstaðarsókn",
+    "id": "Klippstaðarsokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Hnappa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Kolbeinsstaðahreppur",
+    "id": "Kolbei01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Miðdal01",
+        "type": "parish"
+      },
+      {
+        "id": "Dalas01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Kvennabrekkusókn",
+    "id": "Kvennabrekkusokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Gullbr01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Kópavogur",
+    "id": "Kópavo01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Gullbr01",
+        "type": "county"
+      }
+    ],
+    "name": "Kópavogur",
+    "id": "Kópavo02",
+    "type": "city"
+  },
+  {
+    "regions": [
+      {
+        "id": "Rangár01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Landmannahreppur",
+    "id": "Landma01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Laufássókn",
+    "id": "Laufassokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesHún01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Laugardalshreppur",
+    "id": "Laugar01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Dalas01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Laxárdalshreppur",
+    "id": "Laxárd01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Borga01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Leirár- og Melahreppur",
+    "id": "LeiMel01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesSka01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Leiðvallarhreppur",
+    "id": "Leiðva01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Ljósavatnssókn",
+    "id": "Ljosavatnssokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Ljósavatnshreppur",
+    "id": "Ljósav01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Lundarbrekkusókn",
+    "id": "Lundarbrekkusokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Borga01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Lundarreykjadalshreppur",
+    "id": "Lundar01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Skagaf01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Lýtingsstaðahreppur",
+    "id": "Lýting01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Hnappa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Miklaholtshreppur",
+    "id": "Miklah01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Mið-Múlasýsla",
+    "id": "MiðMúl01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Dalas01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Miðdalahreppur",
+    "id": "Miðdal01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Miðneshreppur",
+    "id": "Miðnes01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Mjóafjarðarhreppur",
+    "id": "Mjóafj01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Kjósar01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Mosfellsbær",
+    "id": "Mosfel01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesÍsa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Mosvallahreppur",
+    "id": "Mosval01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Möðrudalssókn",
+    "id": "Modrudalssokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Múlasókn",
+    "id": "Mulasokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusSka02",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Mýrahreppur",
+    "id": "Mýrahr01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Mýrasýsla",
+    "id": "Mýras01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesSka01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Mýrdalshreppur",
+    "id": "Mýrdal01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÍsa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Nauteyrarhreppur",
+    "id": "Nautey01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Snæfe02",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Neshreppur",
+    "id": "Neshre01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusSka02",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Nesjahreppur",
+    "id": "Nesjah01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Snæfe02",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Njarðvík",
+    "id": "Njarðv01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Norður-Múlasýsla",
+    "id": "NorMúl01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Norður-Ísafjarðarsýsla",
+    "id": "NorÍsa01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Norður-Þingeyjarsýsla",
+    "id": "NorÞin01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Norðfjarðarhreppur",
+    "id": "Norðfj01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Norðurárdalshreppur",
+    "id": "Norður01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Presthólasókn",
+    "id": "Prestholasokn02",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Presthólahreppur",
+    "id": "Presth01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Rangárvallasýsla",
+    "id": "Rangár01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Rangár01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Rangárvallahreppur",
+    "id": "Rangár02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesBar01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Rauðasandshreppur",
+    "id": "Rauðas01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Reykdælahreppur",
+    "id": "Reykdæ01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Borga01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Reykholtsdalshreppur",
+    "id": "Reykho01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusBar01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Reykhólahreppur",
+    "id": "Reykhó01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Gullbr01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Reykjavík",
+    "id": "Reykj01",
+    "type": "city"
+  },
+  {
+    "regions": [
+      {
+        "id": "Gullbr01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Reykjavík",
+    "id": "Reykj02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÍsa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Reykjarfjarðarhreppur",
+    "id": "Reykja02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Reykjahreppur",
+    "id": "Reykja03",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Reyðarfjarðarhreppur",
+    "id": "Reyðar01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Skagaf01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Rípuhreppur",
+    "id": "Rípuhr01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesHún01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Sandvíkurhreppur",
+    "id": "Sandví01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Sauðanessókn",
+    "id": "Sauðanessokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Skagaf01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Saurbæjarhreppur",
+    "id": "Saurbæ01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Sauðaneshreppur",
+    "id": "Sauðan01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Árnes01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Selfoss",
+    "id": "Selfos01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Kjósar01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Seltjarnarneshreppur",
+    "id": "Seltja01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesSka01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Seyluhreppur",
+    "id": "Seyluh01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Seyðisfjörður",
+    "id": "Seyðis01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Seyðisfjarðarhreppur",
+    "id": "Seyðis02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Siglufjörður",
+    "id": "Sigluf01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Dalas01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skaftártunguhreppur",
+    "id": "Skaftá01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skagafjarðarsýsla",
+    "id": "Skagaf01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skagahreppur",
+    "id": "Skagah01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skagaströnd",
+    "id": "Skagas01",
+    "type": "village"
+  },
+  {
+    "regions": [
+      {
+        "id": "Dalas01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skarðshreppur",
+    "id": "Skarðs01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Skagaf01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skefilsstaðahreppur",
+    "id": "Skefil01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skeggjastaðahreppur",
+    "id": "Skeggj01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesHún01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skeiðahreppur",
+    "id": "Skeiða01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Borga01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skilmannahreppur",
+    "id": "Skilma01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skinnastaðarsókn",
+    "id": "Skinnastaðarsokn02",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Borga01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skorradalshreppur",
+    "id": "Skorra01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skriðdalshreppur",
+    "id": "Skriðd01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skriðuhreppur",
+    "id": "Skriðu01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Snæfe02",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skógarstrandarhreppur",
+    "id": "Skógar01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Skútustaðahreppur",
+    "id": "Skútus01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Snæfellsnessýsla",
+    "id": "Snæfe02",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÍsa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Snæfjallahreppur",
+    "id": "Snæfja01",
+    "type": "parish"
+  },
+  {
+    "regions": [],
+    "name": "Rogaland",
+    "id": "StaKar01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Saurbæ01",
+        "type": "parish"
+      },
+      {
+        "id": "Dalas01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Staðarhólssókn",
+    "id": "Stadarholssokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Stafholtstungnahreppur",
+    "id": "Stafho01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Snæfe02",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Staðarsveit",
+    "id": "Staðar01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Skagaf01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Staðarhreppur",
+    "id": "Staðar02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Árnes01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Stokkseyrarhreppur",
+    "id": "Stokks01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Strandasýsla",
+    "id": "Strand01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Snæfe02",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Stykkishólmur",
+    "id": "Stykki01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Stöðvarhreppur",
+    "id": "Stöðva01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Stöðvarsókn",
+    "id": "Stoðvarsokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [],
+    "name": "Baden-Württemberg",
+    "id": "StuGer01",
+    "type": "state"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Suður-Múlasýsla",
+    "id": "SuðMúl01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusSka02",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Suðureyrarhreppur",
+    "id": "Suðure01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Suður-Þingeyjarsýsla",
+    "id": "SuðÞin01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Svalbarðssókn",
+    "id": "Svalbardssokn02",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Svalbarðshreppur",
+    "id": "Svalba01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Svalbarðsstrandarhreppur",
+    "id": "Svalba02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Svarfaðardalshreppur",
+    "id": "Svarfa01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Sveinsstaðahreppur",
+    "id": "Sveins01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Svínavatnshreppur",
+    "id": "Svínav01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÍsa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Súðavíkurhreppur",
+    "id": "Súðaví01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Tjörneshreppur",
+    "id": "Tjörne01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Torfalækjarhreppur",
+    "id": "Torfal01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesBar01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Tálknafjarðarheppur",
+    "id": "Tálkna01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Valþjófsstaðarsókn",
+    "id": "Valthjofsstadarsokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Vallahreppur",
+    "id": "Vallah01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Vallanessókn",
+    "id": "Vallanessokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Vatnsleysustrandarhreppur",
+    "id": "Vatnsl01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Vestmannaeyjar",
+    "id": "Vestma01",
+    "type": "town"
+  },
+  {
+    "regions": [
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Vestur-Barðastrandarsýsla",
+    "id": "VesBar01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Rangár01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Vestur-Eyjafallahreppur",
+    "id": "VesEyj01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Vestur-Húnavatnssýsla",
+    "id": "VesHún01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Rangár01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Vestur-Landeyjahreppur",
+    "id": "VesLan01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Vestur-Skaftafellssýsla",
+    "id": "VesSka01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Vestur-Ísafjarðarsýsla",
+    "id": "VesÍsa01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Gullbr01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Villingaholtshreppur",
+    "id": "Villin01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Vindhælishreppur",
+    "id": "Vindhæ01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Gullbr01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Viðey",
+    "id": "VidGul01",
+    "type": "farm"
+  },
+  {
+    "regions": [
+      {
+        "id": "Skagaf01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Viðvíkurhreppur",
+    "id": "Viðvík01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorMúl01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Vopnafjarðarhreppur",
+    "id": "Vopnaf02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Árnes01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Ytri-Torfustaðahreppur",
+    "id": "YtrTor01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Álftaneshreppur",
+    "id": "Álftan01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Gullbr01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Álftavershreppur",
+    "id": "Álftav01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Árnessýsla",
+    "id": "Árnes01",
+    "type": "county"
+  },
+  {
+    "regions": [
+      {
+        "id": "Strand01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Árneshreppur",
+    "id": "Árnesh01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Árskógshreppur",
+    "id": "Árskóg01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesSka01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Ásahreppur",
+    "id": "Ásahre01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "AusHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Áshreppur",
+    "id": "Áshrep01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÍsa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Ísafjörður",
+    "id": "Ísafjö01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Ólafsfjörður",
+    "id": "Ólafsf01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Strand01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Óspakseyrarhreppur",
+    "id": "Óspaks01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÍsa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Ögurhreppur",
+    "id": "Ögurhr01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Gullbr01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Ölfushreppur",
+    "id": "Ölfush01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Öngulstaðahreppur",
+    "id": "Önguls01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "SuðÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Öxarfjarðarhreppur",
+    "id": "Öxarfj01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Eyjafj02",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Öxnadalshreppur",
+    "id": "Öxnada01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Austfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Þingmúlasókn",
+    "id": "Thingmulasokn01",
+    "type": "churchparish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesÍsa01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Þingeyrarhreppur",
+    "id": "Þingey01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesHún01",
+        "type": "county"
+      },
+      {
+        "id": "Sunnle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Þingvallahreppur",
+    "id": "Þingva01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Þorkelshólshreppur",
+    "id": "Þorkel01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "VesHún01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Þverárhreppur",
+    "id": "Þverár01",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "Mýras01",
+        "type": "county"
+      },
+      {
+        "id": "Vestfi01",
+        "type": "geog"
+      }
+    ],
+    "name": "Þverárhlíðarhreppur",
+    "id": "Þverár02",
+    "type": "parish"
+  },
+  {
+    "regions": [
+      {
+        "id": "NorÞin01",
+        "type": "county"
+      },
+      {
+        "id": "Norðle01",
+        "type": "geog"
+      }
+    ],
+    "name": "Þórshafnarhreppur",
+    "id": "Þórsha01",
+    "type": "parish"
+  }
+]

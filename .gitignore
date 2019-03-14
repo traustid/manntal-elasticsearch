@@ -60,7 +60,7 @@ typings/
 # next.js build output
 .next
 
-data/*
+data/manntal*.json
 places-not-found.csv
 placesNotFound.txt
 

@@ -18,3 +18,5 @@ node addManntalToPlacesDb --manntalFile=data/manntal1816-unique.json --placesDbF
 // Unique manntal
 node utils/jsonCreateDistinct.js --inputFile=data/manntal1703.json --outputFile=data/manntal1703-unique.json --fields=Baer
 
+// Bæta staðfangaskrá við
+node addStadfongToPlacesDb.js --stadfongFile=sourceData/stadfangaskra.json --placeDbFile=data/placeDb-strandasysla.json
