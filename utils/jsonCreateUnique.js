@@ -38,6 +38,6 @@ fs.readFile(argv.inputFile, function(err, fileData) {
 		if (writeError) {
 			console.log(writeError);
 		};
-		console.log('Uniqe values of '+argv.inputFile+' based on fields '+argv.fields+' written to '+argv.outputFile);
+		console.log('Uniqe entries of '+argv.inputFile+' based on fields '+argv.fields+' written to '+argv.outputFile);
 	});
 });
