@@ -13,7 +13,7 @@ if (process.argv.length < 3) {
 }
 
 // Opna staðaskrá
-let placesDbContent = fs.readFileSync(argv.placeDbFile, {
+let placesDbContent = fs.readFileSync(argv.placesDbFile, {
 	encoding: 'utf8'
 });
 let placeDb = JSON.parse(placesDbContent);
