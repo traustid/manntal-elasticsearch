@@ -46,13 +46,13 @@ placeDb.forEach(function(item) {
 			console.log(item.name+' = '+place.FASTEIGNAHEITI);
 
 			item.id = _.reject(item.id, function(idItem) {
-				return idItem.source == 'fast_stadfangaskra';
+				return idItem.source == 'fasteignaskra';
 			});
 
 			item.id.push({
 				id: place.LANDNR,
 				name: place.FASTEIGNAHEITI,
-				source: 'fast_stadfangaskra'
+				source: 'fasteignaskra'
 			});
 		}
 	}
