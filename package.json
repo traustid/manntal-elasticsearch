@@ -16,7 +16,7 @@
     "levenshtein": "^1.0.5",
     "minimist": "^1.2.0",
     "request": "^2.79.0",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "xml-js": "^1.6.9"
   }
 }
