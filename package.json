@@ -14,7 +14,7 @@
     "elasticsearch": "^15.3.0",
     "jsonfile": "^2.4.0",
     "levenshtein": "^1.0.5",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "request": "^2.79.0",
     "underscore": "^1.8.3",
     "xml-js": "^1.6.9"
