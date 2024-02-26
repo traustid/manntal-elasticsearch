@@ -27,7 +27,7 @@ Næst þarf að setja upp index í Elasticsearch. Index hegðar sér svipað og 
 
 Eftirfarandi skrifta býr til index sem heitir `manntal`.
 
-`node createIndex.js`
+`node manntalCreateIndex.js`
 
 ## Hnitsetning á bæjum og innkeyrsla gagna
 
